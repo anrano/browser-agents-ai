@@ -276,22 +276,6 @@ For production use cases, use our [Browser Use Cloud API](https://cloud.browser-
 
 <br/>
 
-## Citation
-
-If you use Browser Use in your research or project, please cite:
-
-```bibtex
-@software{browser_use2024,
-  author = {Müller, Magnus and Žunič, Gregor},
-  title = {Browser Use: Enable AI to control your browser},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/browser-use/browser-use}
-}
-```
-
-<br/>
-
 <div align="center">
 
 **Tell your computer what to do, and it gets it done.**
